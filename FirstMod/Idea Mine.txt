@@ -1,0 +1,18 @@
+minigun - spoolup for 4 turns then mow shit down
+10 bullets per channel turn in a cone, based off numtargets? (I)
+
+super blaster - orb that must be charged to release the spell, travels in a line
+succs in enemies within a radius and instakills anything below a certain hp value (60?) (I)
+
+mine trail cannon - sorta like nondestructive void beam but it drops mines on every other tile
+proximity boom dealing fire dmg (W, waiting in case of any changes to props)
+
+exploding pierce - super shot in a line, lots of damage + boom to anything it hits (I)
+
+witchfire - fireball that splits into a number of cone targeting projectiles when it gets close enough to an enemy 
+would be similar to chaos barrage but with more range (N)
+
+death blossom - spinny plant that fires out a number of projectiles indiscriminately in a ring around itself (N)
+
+frost wave - just frost man's weapon from mega man 8
+
